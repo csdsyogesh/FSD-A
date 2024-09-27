@@ -1,3 +1,16 @@
 body{
     background-color:blanchedalmond;
 }
+table{
+    background-color: aqua;
+    border-radius: 10px;
+    border-color: blue;
+    border-style: dotted;
+    border-width: 10px;
+    color:red;
+}
+h1{
+    background-color: violet;
+    color:brown;
+    text-align: center;
+}
